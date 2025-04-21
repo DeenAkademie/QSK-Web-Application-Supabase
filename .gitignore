@@ -1,10 +1,12 @@
 # Supabase
 .branches
 .temp
+.migrations
+.migrations/*
+.migrations/*/*
 
 # dotenvx
 .env.keys
 .env.local
 .env.*.local
 ./supabase
-.migrations
